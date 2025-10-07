@@ -9,6 +9,11 @@ main{
     text-align: center;
     max-width: 90%;
 }
+button{
+    background-color: pink;
+    color: black;
+    padding: 20px;
+}
 
 
 .img01{
