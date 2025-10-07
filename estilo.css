@@ -1,6 +1,9 @@
 body{  
 background-color: pink;
 color: purple;
+display:flex ;
+justify-content: center;
+align-items: center;
 } 
 
 .img01{
